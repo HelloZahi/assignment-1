@@ -73,15 +73,13 @@ body {
 
 .sub-1 p {
     text-align: center;
-    padding: 30px 20px;
+    padding: 35px 25px;
     background-color: rgb(243, 243, 243);
-    display: block;
     margin-right: 8px;
     border-radius: 5px;
     font-size: 20px;
-
-
 }
+
 
 p.highlighter {
     border: 3px solid #0077b6;
