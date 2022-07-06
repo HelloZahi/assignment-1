@@ -1,0 +1,239 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+
+
+.top-section {
+
+    background-image: linear-gradient(rgba(0 0 0 / 0%), rgba(255 255 255 / 34%), rgba(24, 24, 24)), url(images/donation.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10%;
+
+
+}
+
+
+.top-inner h1 {
+    font-size: 60px;
+    text-align: center;
+    color: #fff;
+    padding-left: 23%;
+    padding-right: 23%;
+
+}
+
+.top-inner p {
+    font-size: 22px;
+    text-align: center;
+    color: #fff;
+    padding-left: 28%;
+    padding-right: 28%;
+
+}
+
+
+.button {
+    margin-left: 40%;
+    margin-top: 50%;
+    padding: 15px 25px;
+    background-image: linear-gradient(#0077b6, #00b4d8);
+    color: #fff;
+    border-radius: 50px;
+}
+
+.donate-main h1 {
+    font-size: 45px;
+    text-align: center;
+    color: #000;
+    padding-left: 23%;
+    padding-right: 23%;
+
+
+}
+
+.donate-main p {
+    font-size: 22px;
+    text-align: center;
+    color: #000;
+    padding-left: 28%;
+    padding-right: 28%;
+
+}
+
+.donate-sub {
+    display: flex;
+    padding-left: 35%;
+    padding-right: 30%;
+}
+
+.sub-1 p {
+    text-align: center;
+    padding: 30px 20px;
+    background-color: rgb(243, 243, 243);
+    display: block;
+    margin-right: 8px;
+    border-radius: 5px;
+    font-size: 20px;
+
+
+}
+
+p.highlighter {
+    border: 3px solid #0077b6;
+    color: #0077b6;
+    background: #0076b641;
+    font-weight: bold;
+
+}
+
+.input-area {
+    padding-left: 40%;
+}
+
+input[type=text] {
+    padding: 12px 130px;
+    margin: 8px 0;
+    display: flex;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid rgb(209, 207, 207);
+    margin-bottom: 30px;
+}
+
+.button-donate {
+    margin-left: 47%;
+    padding: 15px 25px;
+    background-image: linear-gradient(#0077b6, #00b4d8);
+    color: #fff;
+    border-radius: 50px;
+
+}
+
+
+.donate-plan {
+    font-size: 30px;
+    text-align: center;
+    color: #000;
+    padding-left: 28%;
+    padding-right: 28%;
+    margin-top: 100px;
+
+
+}
+
+.donate-last {
+    display: flex;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.inner-grid1 {
+    width: 30%;
+    background-color: #00b4d8;
+    margin-left: 5px;
+    padding: 40px 20px;
+    border-radius: 5px;
+}
+
+.inner-grid2 {
+    width: 30%;
+    background-color: #48cae4;
+    margin-left: 5px;
+    padding: 40px 20px;
+    border-radius: 5px;
+}
+
+.inner-grid3 {
+    width: 30%;
+    background-color: #90e0ef;
+    margin-left: 5px;
+    padding: 40px 20px;
+    border-radius: 5px;
+}
+
+.inner-mode img {
+    height: 60px;
+    width: 60px;
+}
+
+.ourmission {
+    margin-top: 100px;
+    display: flex;
+    background-image: url(images/world-bg.png);
+    background-repeat: no-repeat;
+}
+
+.ourmission-left {
+    width: 45%;
+    margin-top: 7%;
+    padding-left: 10%;
+}
+
+.ourmission-left h1 {
+    font-size: 45px;
+}
+
+.ourmission p{
+    font-size: 18px;
+   }
+
+.ourmission-right {
+    width: 45%;
+    margin-top: 70px;
+    padding-left: 10%;
+}
+
+.subscription{
+    font-size: 30px;
+    text-align: center;
+    color: #000;
+    padding-left: 28%;
+    padding-right: 28%;
+    margin-top: 100px;
+
+}
+.subscription p{
+    font-size: 18px;
+   
+
+}
+
+input[type=email] {
+    padding: 12px 60px;
+    margin: 8px 0;
+    border: 1px solid #90e0ef;
+    margin-bottom: 30px;
+    text-align: center;
+    border-radius: 5px 0px 0px 5px;
+}
+
+
+input[type=button] {
+    background-image: linear-gradient(#0077b6, #00b4d8);
+    border: none;
+    color: white;
+    padding: 13px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: -6px;
+    border-radius: 0px 5px 5px 0px;
+}
+.sub-bottom{
+    background-color: rgb(236, 236, 236) ;
+    padding-top: 5%;
+    border-radius: 5px;
+    margin-bottom: 50px;
+}
+
+.footer-bottom{
+    text-align: center;
+    background: rgba(238, 238, 238, 0.356);
+    padding: 30px;
+}
