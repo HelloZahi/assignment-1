@@ -179,9 +179,9 @@ input[type=text] {
     font-size: 45px;
 }
 
-.ourmission p{
+.ourmission p {
     font-size: 18px;
-   }
+}
 
 .ourmission-right {
     width: 45%;
@@ -189,7 +189,7 @@ input[type=text] {
     padding-left: 10%;
 }
 
-.subscription{
+.subscription {
     font-size: 30px;
     text-align: center;
     color: #000;
@@ -198,9 +198,10 @@ input[type=text] {
     margin-top: 100px;
 
 }
-.subscription p{
+
+.subscription p {
     font-size: 18px;
-   
+
 
 }
 
@@ -225,14 +226,17 @@ input[type=button] {
     margin-left: -6px;
     border-radius: 0px 5px 5px 0px;
 }
-.sub-bottom{
-    background-color: rgb(236, 236, 236) ;
+
+.sub-bottom {
+    background-color: rgb(236, 236, 236);
     padding-top: 5%;
+    padding-bottom: 3.5%;
+
     border-radius: 5px;
     margin-bottom: 50px;
 }
 
-.footer-bottom{
+.footer-bottom {
     text-align: center;
     background: rgba(238, 238, 238, 0.356);
     padding: 30px;
