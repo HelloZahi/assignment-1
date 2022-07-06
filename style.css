@@ -212,6 +212,7 @@ input[type=email] {
     margin-bottom: 30px;
     text-align: center;
     border-radius: 5px 0px 0px 5px;
+    background-color: rgb(236, 236, 236);
 }
 
 
@@ -223,12 +224,20 @@ input[type=button] {
     text-decoration: none;
     margin: 4px 2px;
     cursor: pointer;
-    margin-left: -6px;
+    margin-left: -10px;
     border-radius: 0px 5px 5px 0px;
+   
 }
 
+::placeholder {
+    color: rgb(202, 202, 202);
+    opacity: 9; 
+    font-size: 15px;
+    text-align: center;
+  }
+
 .sub-bottom {
-    background-color: rgb(236, 236, 236);
+    background-color: #00b4d83b;
     padding-top: 5%;
     padding-bottom: 3%;
     border-radius: 5px;
@@ -237,6 +246,6 @@ input[type=button] {
 
 .footer-bottom {
     text-align: center;
-    background: rgba(238, 238, 238, 0.356);
+    background: #00b4d8;
     padding: 30px;
 }
